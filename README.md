@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Essi5764
-- 👀 I’m interested in Full Stack Development 
+- 👀 I’m interested in Full Stack Development and Software Testing
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Data Analytics and Visualization, Web design, Software design and testing projects.
 - 📫 How to reach me: capricodermedia@gmail.com
